@@ -1,0 +1,3 @@
+key "594f497965bf0c9b2419f07a785fc45baff11073deeea56d808575d149c52658";
+remote ipv4 "gw05.ffbam.de" port 53902;
+float yes;
